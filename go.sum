@@ -4,3 +4,5 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/geand72/go-i2c v0.1.2 h1:SXte6RVgrVpkAWM5Xh/fhoVVG5Zpo4uXy+SnkqwOxOQ=
 github.com/geand72/go-i2c v0.1.2/go.mod h1:ZHOL5/rNAfhSir2jDMftTeNSKzKV9JLDlVrApQJBq+E=
+github.com/geand72/go-i2c v0.2.0 h1:RYb0rghPFp3hdA9DpLZ4OJGQv/f6RLF2jacgIh+3a28=
+github.com/geand72/go-i2c v0.2.0/go.mod h1:ZHOL5/rNAfhSir2jDMftTeNSKzKV9JLDlVrApQJBq+E=
